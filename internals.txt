@@ -1,0 +1,15 @@
+Supported languages are:
+  - english
+  - french
+  - german
+  - japanese
+  - spanish
+  - italian
+  - korean
+  - traditional_chinese
+  - portuguese
+  - implified_chinese
+  - polish
+  - russian
+  - czech
+  - hungarian
